@@ -7,6 +7,8 @@
   "development": {},
   "license": "MIT",
   "component": {
-    "os/index.js": "index.js"
+    "scripts": {
+      "os/index.js": "index.js"
+    }
   }
 }

@@ -18,7 +18,7 @@ console.log(os);
 ## Supports
 
   - "mac"
-  - "win"
+  - "windows"
   - "linux"
 
 ## License
